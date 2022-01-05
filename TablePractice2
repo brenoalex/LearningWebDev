@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Títulos Mainline de Zelda</title>
+</head>
+
+<body>
+    <h1>Jogos Mainline de Zelda</h1>
+    <h3>Vendas e pontuações</h3>
+
+    <table>
+        <thead>
+            <tr>
+                <th>Jogo</th>
+                <th>Ano</th>
+                <th>Unidades Vendidas Milhões</th>
+                <th>Metacritic</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td> <a href="https://pt.wikipedia.org/wiki/The_Legend_of_Zelda_(jogo_eletr%C3%B4nico)">The Legend of
+                        Zelda</a> </td>
+                <td>1986</td>
+                <td>6,51 <sup><a href="https://pt.wikipedia.org/wiki/The_Legend_of_Zelda#cite_note-9">[9]</a></sup>
+                </td>
+                <td><b>GBA:</b>84<sup> <a href="https://pt.wikipedia.org/wiki/The_Legend_of_Zelda#cite_note-10">[10]</a>
+                    </sup></td>
+            </tr>
+            <tr>
+                <td> <a href="https://pt.wikipedia.org/wiki/The_Legend_of_Zelda_(jogo_eletr%C3%B4nico)">The Adventure of
+                        Link</a> </td>
+                <td>1987</td>
+                <td>4,38 <sup><a href="https://pt.wikipedia.org/wiki/The_Legend_of_Zelda#cite_note-9">[11]</a></sup>
+                </td>
+                <td><b>GBA:</b>73</td>
+            </tr>
+            <tr>
+                <td> <a href="https://pt.wikipedia.org/wiki/The_Legend_of_Zelda_(jogo_eletr%C3%B4nico)">A Link to the
+                        Past</a> </td>
+                <td>1991</td>
+                <td>4,61 <sup><a href="https://pt.wikipedia.org/wiki/The_Legend_of_Zelda#cite_note-9">[12]</a></sup>
+                </td>
+                <td><b>GBA:</b>95</td>
+            </tr>
+            <tr>
+                <td> <a href="https://pt.wikipedia.org/wiki/The_Legend_of_Zelda_(jogo_eletr%C3%B4nico)">Link's
+                        Awakening</a> </td>
+                <td>1993</td>
+                <td>3,83 <sup><a href="https://pt.wikipedia.org/wiki/The_Legend_of_Zelda#cite_note-9">[13]</a></sup>
+                </td>
+                <td>-</td>
+            </tr>
+        </tbody>
+    </table>
+
+
+
+</body>
+
+</html>
