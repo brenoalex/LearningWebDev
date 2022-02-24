@@ -2,7 +2,7 @@ This project was made as a codealong following Bonieky's Lacerda Youtube Channel
 Source: https://www.youtube.com/c/BoniekyLacerdaLeal
 
 Instructions:
-1. Download and unzip in any directory
+1. Download all the files, respecting the directory organization
 2. Type in the command line, once you are in the correct directory: npm start
 3. You should see a browser window appearing and displaying the project
 
