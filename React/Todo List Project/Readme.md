@@ -3,8 +3,10 @@ Source: https://www.youtube.com/c/BoniekyLacerdaLeal
 
 Instructions:
 1. Download all the files, respecting the directory organization
-2. Type in the command line, once you are in the correct directory: npm start
-3. You should see a browser window appearing and displaying the project
+2. Type in the command line, once you are in the correct directory: npx create-react-app todo
+3. Replace all the files inside the folder with this ones in the repository
+4. Type in the command line npm start
+5. You should see a browser window appearing and displaying the project
 
 # Getting Started with Create React App
 
